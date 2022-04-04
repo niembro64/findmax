@@ -8,6 +8,7 @@ namespace findmax
     {
       int[] a = { 1, 2, 3, 4, 5, -1, 33, 55, -5 };
       Console.WriteLine(FindMax(a));
+      Console.WriteLine("Text Yayyyy")
     }
     public static int FindMax(int[] numbers)
     {
